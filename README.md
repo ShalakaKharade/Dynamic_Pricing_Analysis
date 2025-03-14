@@ -55,18 +55,7 @@ The dataset consists of various features that may impact the cost of rides, such
 
 ---
 
-## How to Run the Project  
-1. Clone this repository:  
-   ```bash
-   https://github.com/ShalakaKharade/Dynamic_Pricing_Analysis
-   
-2. Navigate to the project directory:
-   cd dynamic-pricing-analysis
 
-3. Install dependencies:
-   pip install -r requirements.txt
-   
-4. Run the Jupyter Notebook or Python script for EDA.
 
    
 

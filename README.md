@@ -55,7 +55,7 @@ The dataset consists of various features that may impact the cost of rides, such
 
 ---
 
-## 🏁 How to Run the Project  
+## How to Run the Project  
 1. Clone this repository:  
    ```bash
    https://github.com/ShalakaKharade/Dynamic_Pricing_Analysis
